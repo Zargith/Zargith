@@ -1,7 +1,7 @@
 # About me <img src="https://github.com/Zargith/Zargith/blob/master/Gifs/Hi.gif" width="30px">
 
 Hi, my name is Stanislas, I am an dev student at [Epitech](https://www.epitech.eu/) !  
-I first learned to code with C and soon after I learned C++, Python, JS, among others.  
+I first learned to code with C and soon after I learned C++, Python, JavaScript (NodeJS), among others.  
 I currently am in my fourth year of studies and I am doing it in South Korea where I am specializing in video games.
 </br>
 
