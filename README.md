@@ -2,7 +2,7 @@
 
 Hi, my name is Stanislas, I am a dev from [Epitech](https://www.epitech.eu/)!
 I first learned to code with C and soon after I learned C++, Python, JavaScript (NodeJS), among others.  
-I currently am in my fourth year of studies and I am doing it in South Korea where I am specializing in video games.
+I made my fourth year of studies in South Korea at [Keimyung University](https://www.kmu.ac.kr/uni/eng/main.jsp) where I was specializing in video games.
 </br>
 
 ## My Github stats
