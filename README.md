@@ -6,10 +6,10 @@ I made my fourth year of studies in South Korea at [Keimyung University](https:/
 </br>
 
 ## My Github stats
-![Zargith's Github stats](https://github-readme-stats.vercel.app/api?username=Zargith&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
+![Zargith's Github stats](https://github-readme-stats-six-phi-92.vercel.app/api?username=Zargith&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
 
 ## My top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zargith&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-phi-92.vercel.app/api/top-langs/?username=Zargith&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 </br>
