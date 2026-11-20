@@ -88,9 +88,8 @@ Today, I combine my passion for development with a teaching mission at Epitech: 
 | 🏰 [Grandma Tower Defense](https://v3.globalgamejam.org/2019/games/grandma-td) | Second participation in the Global Game Jam | 2019 |
 | 🏸 [BCM68 website](https://bcm68.net/) | Co-managing my badminton club's website (OVH services, WordPress plugins, pages and posts) | 2025–2026 |
 | 🤖 BCM68 WhatsApp bot | A WhatsApp bot that automates opening and closing the gym for my badminton club | 2026 |
-| 🌐 [Portfolio](https://stanislashegron.fr) | My personal portfolio website (Next.js · Tailwind CSS · Docker) | — |
 
-👉 More details, screenshots and write-ups on **[stanislashegron.fr](https://stanislashegron.fr/en/projects)**.
+👉 More details, screenshots and write-ups on **[stanislashegron.fr](https://stanislashegron.fr/en/projects)**, my portfolio.
 
 ---
 
