@@ -22,44 +22,51 @@ Today, I combine my passion for development with a teaching mission at Epitech: 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-**Backend & Frontend**
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend & Data**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
-**Data**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**DevOps & Tools**
+**DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Game Dev & Design**
+**Game Dev**
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+**Tools**
+
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 
@@ -67,13 +74,23 @@ Today, I combine my passion for development with a teaching mission at Epitech: 
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🧠 [Psynder](https://github.com/Zargith/Psynder) | App connecting people with depressive disorders to qualified therapists (EIP) | Node.js · Angular · React Native · MongoDB · Docker |
-| 📸 [API my_snapchat](https://github.com/Zargith/MySnapchatAPI) | Backend API simulating Snapchat's core features | Node.js · Express · MongoDB · Docker |
-| 🚚 [EpiCarrier](https://github.com/Zargith/EpiCarrier) | API + web interface for delivery simulation & tracking | Node.js · React · MongoDB · Docker |
-| 🌐 [Portfolio](https://stanislashegron.fr) | Personal portfolio website | Next.js · Tailwind CSS · Docker |
-| 🎮 [The Alchemist](https://github.com/Zargith/TheAlchemist) | My first video game built with Unreal Engine | Unreal Engine |
-| 🕹️ [Signal Lost](https://v3.globalgamejam.org/2018/games/signal-lost) | Global Game Jam 2018 entry | Game Jam |
-| 🏰 [Grandma Tower Defense](https://v3.globalgamejam.org/2019/games/grandma-td) | Global Game Jam 2019 entry | Game Jam |
+| 🧠 [Psynder](https://stanislashegron.fr/en/projects/psynder) · [repo](https://github.com/Zargith/Psynder) | Connecting people with depressive disorders with qualified therapists — Epitech final-year project (EIP, team, 2019–2022) | Node.js · Express · Swagger · MongoDB · Docker · Angular · Tailwind · React Native |
+| 📸 [API my_snapchat](https://stanislashegron.fr/en/projects/my-snapchat) · [repo](https://github.com/Zargith/MySnapchatAPI) | Backend API simulating Snapchat's core features — teaching tool for Epitech students | Node.js · Express · Swagger · MongoDB · Docker |
+| 🚚 [EpiCarrier](https://stanislashegron.fr/en/projects/epicarrier) · [repo](https://github.com/Zargith/EpiCarrier) | API with a web interface for simulating and tracking deliveries — teaching tool for Epitech students | Node.js · Express · Swagger · MongoDB · Docker · React · Material UI |
+| 🎮 [The Alchemist](https://stanislashegron.fr/en/projects/the-alchemist) · [repo](https://github.com/Zargith/TheAlchemist) | My first video game built with Unreal Engine — gameplay systems and UI (team, 2021–2022) | Unreal Engine |
+| 🧩 [Scratch2Arduino](https://stanislashegron.fr/en/projects/scratch2arduino) · [repo](https://github.com/Zargith/Scratch2Arduino) | Programming a real Arduino board with blocks, no coding needed — born from Epitech's Coding Club workshops (2026) | C++ · CMake · TypeScript · React · Blockly · Arduino · Python |
+
+### 🛠️ Side projects
+
+| Project | Description | Year |
+|---------|-------------|------|
+| 🕹️ [Signal Lost](https://v3.globalgamejam.org/2018/games/signal-lost) | First participation in the Global Game Jam | 2018 |
+| 🏰 [Grandma Tower Defense](https://v3.globalgamejam.org/2019/games/grandma-td) | Second participation in the Global Game Jam | 2019 |
+| 🏸 [BCM68 website](https://bcm68.net/) | Co-managing my badminton club's website (OVH services, WordPress plugins, pages and posts) | 2025–2026 |
+| 🤖 BCM68 WhatsApp bot | A WhatsApp bot that automates opening and closing the gym for my badminton club | 2026 |
+| 🌐 [Portfolio](https://stanislashegron.fr) | My personal portfolio website (Next.js · Tailwind CSS · Docker) | — |
+
+👉 More details, screenshots and write-ups on **[stanislashegron.fr](https://stanislashegron.fr/en/projects)**.
 
 ---
 
