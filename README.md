@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Stanislas%20H%C3%A9gron&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Pedagogical%20Mentor%20%40%20Epitech&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Stanislas%20H%C3%A9gron&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Jack%20of%20All%20Trades%20Developer%20%7C%20Pedagogical%20Mentor%20%40%20Epitech&descAlignY=55&descAlign=50" />
 </div>
 
 ## About me <img src="https://github.com/Zargith/Zargith/blob/master/Gifs/Hi.gif" width="30px">
